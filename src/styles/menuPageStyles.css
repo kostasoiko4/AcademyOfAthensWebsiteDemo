@@ -1,0 +1,55 @@
+.menuPageWrapper {
+    padding: 5%;
+}
+
+.menuNavWrapper {
+    padding: 5%;
+    /* margin-left: 40px; */
+    margin-top: 40%;
+}
+
+.menuNav {
+    background-color: rgba(249, 249, 249, 0.6);
+    width: 150px;
+}
+
+.nav-link {
+    font-family: 'Noto Serif';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(18, 47, 64, 0.9);
+
+}
+
+.nav-link:hover {
+    opacity: 50%;
+    color: rgba(18, 47, 64, 0.9);
+}
+
+.menuNav .nav-link.active {
+    color: rgba(19, 140, 211, 1);
+    border-width: 10px;
+    border-left: 2px solid;
+}
+
+.menuListItem {
+    color: rgba(27, 73, 101, 1);
+    font-family: 'Noto Serif';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    padding: 1.5%;
+}
+
+.menuListItem:hover {
+    opacity: 75%;
+}
+
+.menuListIcon { 
+    height: 100%;
+    width: 3%;
+    color: #1B4965;
+}

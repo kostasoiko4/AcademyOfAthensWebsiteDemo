@@ -1,0 +1,64 @@
+.newsCardBody {
+    margin-top: 50px;
+    width: 75%;
+}
+
+.newsCardTitle {
+    color: #1B4965;
+    font-family: 'Noto Serif';
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48px;
+    width: fit-content;
+    padding: 0;
+    border-bottom: 2px solid;
+    border-image: linear-gradient(to right, rgba(19, 140, 211, 1) 50%, transparent 50%) 100% 1;
+    margin-bottom: 30px;
+}
+
+.researchNav {
+    width: 55%;
+    background-color: #F9F9F9;
+    border-radius: 39px;
+}
+
+.nav-pills .nav-link {
+    width: 100%;
+    margin-left: 8%;
+    text-align: center;
+    height: Hug (52px)px;
+    padding: 12px 50px 12px 50px;
+    border-radius: 39px;
+    color: #003049;
+}
+
+.nav-pills .nav-link:hover {
+    opacity: 50%;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #138CD3;
+    color: white;
+}
+
+.moreButton {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 168px;
+    height: 51px;
+    border-radius: 80px;
+    border-color: #138CD3;
+    color: #138CD3;
+    background-color: white;
+    font-family: 'Noto Serif';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+}
+
+.moreButton:hover {
+    color: #138CD3;
+    background-color: white;
+    opacity: 50%;
+}

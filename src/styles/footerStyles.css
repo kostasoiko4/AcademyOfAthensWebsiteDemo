@@ -1,0 +1,73 @@
+.footerBarMain {
+    height: 225px;
+    background-color: #1B4965;
+}
+
+.footerImage {
+    width: 276px;
+    height: 88px;
+}
+
+.mediaButton {
+    background-color: rgba(249, 249, 249, 0.1);
+    border-color: transparent;    
+    width: 48px;
+    height: 48px;
+    border-radius: 48px;
+    margin-right: 10px;
+}
+
+.mediaIcon {
+    color: #F9F9F9;
+    opacity: 100%;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 1px;
+}
+
+.footerBarProgram {
+    height: 76px;
+    background-color: #FFFFFF;
+}
+
+.programImage {
+    width: 255px;
+    height: 52px;
+}
+
+.footerBarRights {
+    height: 57px;
+    background-color: #003049;
+}   
+
+.rightsText {
+    color: white;
+    font-family: 'Noto Serif';
+}
+
+.footerTitle {
+    color: white;
+    font-family: 'Noto Serif';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+
+}
+
+.footerText {
+    color: white;
+    font-family: 'Noto Serif';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.footerLink {
+    cursor: pointer;
+}
+
+.footerLink:hover {
+    color: #138CD3
+}

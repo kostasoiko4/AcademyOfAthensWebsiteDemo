@@ -1,0 +1,24 @@
+.seeAlsoCardBody {
+    margin-top: 50px;
+    width: 90%;
+}
+
+.seeAlsoCardTitle {
+    color: #1B4965;
+    font-family: 'Noto Serif';
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48px;
+    width: fit-content;
+    padding: 0;
+    border-bottom: 2px solid;
+    border-image: linear-gradient(to right, rgba(19, 140, 211, 1) 50%, transparent 50%) 100% 1;
+    margin-bottom: 30px;
+}
+
+.seeAlsoBanner {
+    width: 1040px;
+    height: 265px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}

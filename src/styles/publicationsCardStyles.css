@@ -1,0 +1,36 @@
+.publicationsCard {
+    padding: 0;
+    margin: 0;
+    border-width: 0px;
+    align-items: center;
+    background-color: #F9F9F9;
+}
+
+.moreButton {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 168px;
+    height: 51px;
+    border-radius: 80px;
+    border-color: #138CD3;
+    color: #138CD3;
+    background-color: transparent;
+    font-family: 'Noto Serif';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+}
+
+.publicationsTitle {
+    width: fit-content;
+    padding: 0;
+    border-bottom: 2px solid;
+    border-image: linear-gradient(to right, rgba(19, 140, 211, 1) 65%, transparent 65%) 100% 1;
+    margin-bottom: 30px;
+}
+
+.publicationsText {
+    width: 89%;
+    margin-left: 6%;
+}

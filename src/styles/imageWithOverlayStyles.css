@@ -1,0 +1,53 @@
+.overlayImage {
+    width: 330px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 0px;
+}
+
+.overlayCard {
+    width: 330px;
+    height: 400px;
+    position: absolute;
+    background-color: rgba(27, 73, 101, 0.45);
+    transform: translateY(-400px);
+    border-radius: 0px;
+}
+
+.overlayCardBody {
+    margin-top: 120px;
+    width: 70%;
+}
+
+.overlayTitle {
+    font-family: 'Noto Serif';
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    
+}
+
+.overlayButton {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 168px;
+    height: 51px;
+    border-radius: 80px;
+    border-color: white;
+    color: white;
+    background-color: transparent;
+    font-family: 'Noto Serif';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+}
+
+.overlayButton:hover {
+    color: white;
+    background-color: #138CD3;
+    opacity: 90%;
+    border-color: transparent;
+}

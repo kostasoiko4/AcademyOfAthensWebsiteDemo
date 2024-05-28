@@ -1,0 +1,68 @@
+.newsVerticalCard {
+    width: 404px;
+    height: 614px;
+    border-radius: 0;
+}
+
+.newsVerticalCardImage {
+    border-radius: 0;
+    object-fit: cover;
+}
+
+.newsVerticalCardBody {
+    width: 100%;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.newsVerticalCardTag {
+    font-family: 'Noto Serif';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: rgba(19, 140, 211, 1);
+}
+
+.newsVerticalCardTitle {
+    font-family: 'Noto Serif';
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29.96px;
+    text-align: left;
+    color: rgba(18, 47, 64, 0.9);
+}
+
+.newsVerticalCardDate {
+    font-family: 'Noto Serif';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: rgba(18, 47, 64, 0.6);
+}
+
+.newsVerticalCardDescription {
+    font-family: 'Noto Serif';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.newsVerticalCardLink {
+    font-family: 'Noto Serif';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: rgba(19, 140, 211, 1);
+}
+
+.newsVerticalCardTag:hover,
+.newsVerticalCardLink:hover {
+    cursor: pointer;
+    opacity: 75%;
+}
