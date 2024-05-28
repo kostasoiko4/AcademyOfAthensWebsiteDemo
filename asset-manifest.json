@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AcademyOfAthensWebsiteDemo/static/css/main.84add627.css",
+    "main.js": "/AcademyOfAthensWebsiteDemo/static/js/main.82c4a817.js",
+    "static/media/see1.png": "/AcademyOfAthensWebsiteDemo/static/media/see1.07a3825f9333a57fe944.png",
+    "static/media/home.png": "/AcademyOfAthensWebsiteDemo/static/media/home.45ad79edd2309e1a9d69.png",
+    "static/media/see3.png": "/AcademyOfAthensWebsiteDemo/static/media/see3.eaa8eff8bed8d5f323d3.png",
+    "static/media/headerImage2.png": "/AcademyOfAthensWebsiteDemo/static/media/headerImage2.20f5020f3f33711eaddb.png",
+    "static/media/see2.png": "/AcademyOfAthensWebsiteDemo/static/media/see2.407c51f407eb190f6bb8.png",
+    "static/media/news3.png": "/AcademyOfAthensWebsiteDemo/static/media/news3.2effb840bfd6f72c0af5.png",
+    "static/media/news2.png": "/AcademyOfAthensWebsiteDemo/static/media/news2.b940dad873bcacadd342.png",
+    "static/media/akadimia_Logo.png": "/AcademyOfAthensWebsiteDemo/static/media/akadimia_Logo.1f1f1ce54e08f8513c0e.png",
+    "static/media/news4.png": "/AcademyOfAthensWebsiteDemo/static/media/news4.a8ea56fb291b0c121bdb.png",
+    "static/media/news1.png": "/AcademyOfAthensWebsiteDemo/static/media/news1.e790f7253e874527c0c5.png",
+    "static/media/espaLogo.png": "/AcademyOfAthensWebsiteDemo/static/media/espaLogo.57ae42a4ddfc464fe54a.png",
+    "index.html": "/AcademyOfAthensWebsiteDemo/index.html",
+    "main.84add627.css.map": "/AcademyOfAthensWebsiteDemo/static/css/main.84add627.css.map",
+    "main.82c4a817.js.map": "/AcademyOfAthensWebsiteDemo/static/js/main.82c4a817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84add627.css",
+    "static/js/main.82c4a817.js"
+  ]
+}
